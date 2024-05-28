@@ -1,0 +1,39 @@
+phrase:      השאיריאתפנייךבשמשולאתוכלילראותכלצל
+detected:    השאיריאתפנייךבשמשולאתוכלילראותכלצל
+correct:     100%
+
+has | got | correct
+ה	ה	True
+ש	ש	True
+א	א	True
+י	י	True
+ר	ר	True
+י	י	True
+א	א	True
+ת	ת	True
+פ	פ	True
+נ	נ	True
+י	י	True
+י	י	True
+ך	ך	True
+ב	ב	True
+ש	ש	True
+מ	מ	True
+ש	ש	True
+ו	ו	True
+ל	ל	True
+א	א	True
+ת	ת	True
+ו	ו	True
+כ	כ	True
+ל	ל	True
+י	י	True
+ל	ל	True
+ר	ר	True
+א	א	True
+ו	ו	True
+ת	ת	True
+כ	כ	True
+ל	ל	True
+צ	צ	True
+ל	ל	True
